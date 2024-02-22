@@ -18,8 +18,8 @@ export default function App(){
       />
       {/* <SignInScreen/> */}
       {/* <SignUpScreen/> */}
-      {/* <SignInWelcomeScreen/> */}
-      <HomeScreen/>
+      <SignInWelcomeScreen/>
+      {/* <HomeScreen/> */}
       {/* <HomeHeader/> */}
       
     </ View>
